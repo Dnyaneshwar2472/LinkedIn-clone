@@ -407,7 +407,17 @@ section > div {
   }
   .p-img {
     z-index: 0;
-   
+  }
+  .buttons {
+    gap: 7.5%;
+  }
+  .buttons > div {
+    gap: 5%;
+    font-size: small;
+  }
+  .buttons img {
+    height: 0.8rem;
+    width: 0.8rem;
   }
 }
 
